@@ -70,10 +70,10 @@ const MODEL_MAPPING = {
   'deepseek-ai/deepseek-r1': 'deepseek-ai/deepseek-r1',
   'deepseek-ai/deepseek-v4-flash-0731': 'deepseek-ai/deepseek-v4-flash-0731',
   'z-ai/glm-5.1': 'z-ai/glm-5.1',
-  'z-ai/glm-5.2': 'z-ai/glm-5.2'
-  'z-ai/glm-4.7': 'z-ai/glm-4.7'
-  'google/gemma-4-31b-it': 'google/gemma-4-31b-it'
-  'mistralai/mistral-nemotron': 'mistralai/mistral-nemotron'
+  'z-ai/glm-5.2': 'z-ai/glm-5.2',
+  'z-ai/glm-4.7': 'z-ai/glm-4.7',
+  'google/gemma-4-31b-it': 'google/gemma-4-31b-it',
+  'mistralai/mistral-nemotron': 'mistralai/mistral-nemotron',
   'google-light': 'google/gemma-4-31b-it',
   'google-lightest': 'meta/muse-glimmer-30b', // was google/gemma-2b
   'google-lighter': 'poolside/laguna-xs-2.1', // was google/gemma-3-4b-it
