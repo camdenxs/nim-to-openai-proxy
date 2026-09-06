@@ -67,7 +67,7 @@ validateConfig();
 // validateModels() and GET /v1/models?live=true). Comments note the prior
 // backend model ID where an entry was swapped out for a dead catalog entry.
 const MODEL_MAPPING = {
-  'deepseek-ai/deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro-0813'
+  'deepseek-ai/deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro-0813',
   'deepseek-ai/deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash-0731',
   'google/gemma-4-31b-it': 'google/gemma-4-31b-it',
   'mistralai/mistral-nemotron': 'mistralai/mistral-nemotron',
